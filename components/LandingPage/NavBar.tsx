@@ -11,7 +11,7 @@ function NavBar({ className }: { className: string }) {
             <h1>DeCoreDesign</h1>
           </div>
           <div className="col-span-12 md:col-span-4 flex flex-col md:flex-row pt-[10px]">
-            <NavBarText title="Home" text="text1" />
+            <NavBarText title="Home" text="nesto" />
             <NavBarText title="About Us" text="text2" />
             <NavBarText title="Services" text="text3" />
             <NavBarText title="What to see" text="text4" />
