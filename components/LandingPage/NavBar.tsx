@@ -1,9 +1,6 @@
 import React from "react";
-import Logo from "@/public/assets/icons/logo-brand.svg";
-import Image from "next/image";
+
 import NavBarText from "./NavBarText";
-import Button from "../LandingPage/Button";
-import Img from "@/public/assets/icons/delete.svg";
 
 function NavBar({ className }: { className: string }) {
   return (
